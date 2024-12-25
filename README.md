@@ -267,5 +267,5 @@ variable x is even
 ```
 
 ```diff
-! 18/21
+! 13/21
 ```
